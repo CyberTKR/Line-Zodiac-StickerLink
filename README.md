@@ -1,6 +1,7 @@
 # Line-Zodiac-StickerLink
 Source Line's Official Website;
-<p>https://store.line.me/stickershop/showcase/top/en</p>
+<p align="justify">
+https://store.line.me/stickershop/showcase/top/en<br>
 https://store.line.me/stickershop/showcase/top/en?page=1
 https://store.line.me/stickershop/showcase/top/en?page=2
 https://store.line.me/stickershop/showcase/top/en?page=3
