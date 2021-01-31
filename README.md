@@ -2,7 +2,7 @@
 Source Line's Official Website;
 <p align="justify">
 https://store.line.me/stickershop/showcase/top/en<br></p>
-https://store.line.me/stickershop/showcase/top/en?page=1
+<p align="justify">https://store.line.me/stickershop/showcase/top/en?page=1<br></p>
 https://store.line.me/stickershop/showcase/top/en?page=2
 https://store.line.me/stickershop/showcase/top/en?page=3
 https://store.line.me/stickershop/showcase/top/en?page=4
