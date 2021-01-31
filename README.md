@@ -1,19 +1,19 @@
 # Line-Zodiac-StickerLink
 Source Line's Official Website;
-<p align="justify">
-https://store.line.me/stickershop/showcase/top/en<br></p>
-<p align="justify">https://store.line.me/stickershop/showcase/top/en?page=1<br></p>
-https://store.line.me/stickershop/showcase/top/en?page=2
-https://store.line.me/stickershop/showcase/top/en?page=3
-https://store.line.me/stickershop/showcase/top/en?page=4
-https://store.line.me/stickershop/showcase/top/en?page=4
-https://store.line.me/stickershop/showcase/top/en?page=5
-https://store.line.me/stickershop/showcase/top/en?page=6
-https://store.line.me/stickershop/showcase/top/en?page=7
-https://store.line.me/stickershop/showcase/top/en?page=8
-https://store.line.me/stickershop/showcase/top/en?page=9
-https://store.line.me/stickershop/showcase/top/en?page=10
-https://store.line.me/stickershop/showcase/top/en?page=11
+</br><b>✦ https://store.line.me/stickershop/showcase/top/en</b>
+
+</br><b>✦ https://store.line.me/stickershop/showcase/top/en?page=1</b>
+</br><b>✦ https://store.line.me/stickershop/showcase/top/en?page=2</b>
+</br><b>✦ https://store.line.me/stickershop/showcase/top/en?page=3</b>
+</br><b>✦ https://store.line.me/stickershop/showcase/top/en?page=4</b>
+</br><b>✦ https://store.line.me/stickershop/showcase/top/en?page=4</b>
+</br><b>✦ https://store.line.me/stickershop/showcase/top/en?page=5</b>
+</br><b>✦ https://store.line.me/stickershop/showcase/top/en?page=6</b>
+</br><b>✦ https://store.line.me/stickershop/showcase/top/en?page=7</b>
+</br><b>✦ https://store.line.me/stickershop/showcase/top/en?page=8</b>
+</br><b>✦ https://store.line.me/stickershop/showcase/top/en?page=9</b>
+</br><b>✦ https://store.line.me/stickershop/showcase/top/en?page=10</b>
+</br><b>✦ https://store.line.me/stickershop/showcase/top/en?page=11</b>
 
 Installation
 ------------
