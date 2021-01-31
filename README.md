@@ -53,7 +53,7 @@ if tolg.elifORPteg().mid in hey3:
                     time.sleep(10)
 ```
 # Line-Zodiac-StickerLink
-Source Line's Official Website;
+Source Zodiac's Official Website;
 <p>https://www.gunlukburc.net/gunluk-burc-yorumlari/koc.html
 https://www.gunlukburc.net/gunluk-burc-yorumlari/ikizler.html
 https://www.gunlukburc.net/gunluk-burc-yorumlari/boga.html
