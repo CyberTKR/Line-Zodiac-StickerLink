@@ -55,17 +55,17 @@ if tolg.elifORPteg().mid in hey3:
 ```
 # Line-Zodiac-StickerLink
 Source Zodiac's Official Website;
-<p>https://www.gunlukburc.net/gunluk-burc-yorumlari/koc.html
-https://www.gunlukburc.net/gunluk-burc-yorumlari/ikizler.html
-https://www.gunlukburc.net/gunluk-burc-yorumlari/boga.html
-https://www.gunlukburc.net/gunluk-burc-yorumlari/yengec.html
-https://www.gunlukburc.net/gunluk-burc-yorumlari/terazi.html
-https://www.gunlukburc.net/gunluk-burc-yorumlari/akrep.html
-https://www.gunlukburc.net/gunluk-burc-yorumlari/oglak.html
-https://www.gunlukburc.net/gunluk-burc-yorumlari/yay.html
-https://www.gunlukburc.net/gunluk-burc-yorumlari/balık.html
-https://www.gunlukburc.net/gunluk-burc-yorumlari/basak.html
-https://www.gunlukburc.net/gunluk-burc-yorumlari/aslan.html</p>
+</br><b>✦https://www.gunlukburc.net/gunluk-burc-yorumlari/koc.html</b>
+</br><b>✦https://www.gunlukburc.net/gunluk-burc-yorumlari/ikizler.html</b>
+</br><b>✦https://www.gunlukburc.net/gunluk-burc-yorumlari/boga.html</b>
+</br><b>✦https://www.gunlukburc.net/gunluk-burc-yorumlari/yengec.html</b>
+</br><b>✦https://www.gunlukburc.net/gunluk-burc-yorumlari/terazi.html</b>
+</br><b>✦https://www.gunlukburc.net/gunluk-burc-yorumlari/akrep.html</b>
+</br><b>✦https://www.gunlukburc.net/gunluk-burc-yorumlari/oglak.html</b>
+</br><b>✦https://www.gunlukburc.net/gunluk-burc-yorumlari/yay.html</b>
+</br><b>✦https://www.gunlukburc.net/gunluk-burc-yorumlari/balık.html</b>
+</br><b>✦https://www.gunlukburc.net/gunluk-burc-yorumlari/basak.html</b>
+</br><b>✦https://www.gunlukburc.net/gunluk-burc-yorumlari/aslan.html</b>
 
 Installation
 ------------
