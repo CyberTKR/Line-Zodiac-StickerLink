@@ -13,7 +13,7 @@ https://store.line.me/stickershop/showcase/top/en?page=7
 https://store.line.me/stickershop/showcase/top/en?page=8
 https://store.line.me/stickershop/showcase/top/en?page=9
 https://store.line.me/stickershop/showcase/top/en?page=10
-https://store.line.me/stickershop/showcase/top/en?page=11</p>
+https://store.line.me/stickershop/showcase/top/en?page=11
 
 Installation
 ------------
