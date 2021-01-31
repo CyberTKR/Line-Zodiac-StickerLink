@@ -1,7 +1,6 @@
 # Line-Zodiac-StickerLink
-<p align="justify">
-Source Line's Official Website;<br>
-https://store.line.me/stickershop/showcase/top/en
+Source Line's Official Website;
+<p align="justify">https://store.line.me/stickershop/showcase/top/en</p>
 ['https://store.line.me/stickershop/showcase/top/en?page=1',
 'https://store.line.me/stickershop/showcase/top/en?page=2',
 'https://store.line.me/stickershop/showcase/top/en?page=3',
@@ -13,7 +12,7 @@ https://store.line.me/stickershop/showcase/top/en
 'https://store.line.me/stickershop/showcase/top/en?page=8',
 'https://store.line.me/stickershop/showcase/top/en?page=9',
 'https://store.line.me/stickershop/showcase/top/en?page=10']
-</p>
+
 Installation
 ------------
 ```bash
