@@ -40,7 +40,7 @@ def tratSnoitarepo(laylay):
               while True:
                   try:
                       num = 0
-                      lineurl = ['https://store.line.me/stickershop/showcase/top/en?page=1',
+                      lineurl = ['https://store.line.me/stickershop/showcase/top_creators/en?page=1',
                                   'https://store.line.me/stickershop/showcase/top/en?page=2',
                                   'https://store.line.me/stickershop/showcase/top/en?page=3',
                                   'https://store.line.me/stickershop/showcase/top/en?page=4',
